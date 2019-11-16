@@ -1,0 +1,21 @@
+.card-title {
+	text-transform: uppercase;
+}
+
+.card-title.green{
+	font-size: 16px;
+	color: #00AE9A;
+}
+
+.card-text , .card-list > * {
+	font-size: 12px;
+}
+
+.card-list {
+	padding-left: 0px;
+}
+
+.card-list > * {
+	list-style-type: none;
+	line-height: 2;
+}

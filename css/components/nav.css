@@ -1,0 +1,11 @@
+.nav {
+ display: inline-block;
+}
+
+.nav .nav-item {
+ color: #fff;
+ text-transform: uppercase;
+ margin-right: 25px;
+ font-size: 12px;
+ font-weight: 600;
+}
